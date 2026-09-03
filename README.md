@@ -55,3 +55,12 @@ After completing the character and armor, I added:
 * **Focus:** Modeling, Sculpting, Texturing & Rigging
 * **Time Spent:** 45+ hours
 * **Status:** Completed
+
+## License
+
+Licensed under **CC BY-NC 4.0**.
+You may use, modify, and share this project for **non-commercial purposes**, with credit to **Binupa**.
+
+**Commercial use or resale requires permission.**
+
+[View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
