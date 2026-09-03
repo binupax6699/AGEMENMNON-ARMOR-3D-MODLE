@@ -40,11 +40,9 @@ After completing the character and armor, I added:
 
 ## Renders & Media
 
-![Final Render](001.png)
+![Final Render](001.PNG)
 
-![2](002.png)
-
-![3](003.png)
+![2](002.png) ![3](003.png)
 
 **Full Project:** [Google Drive](YOUR_GOOGLE_DRIVE_LINK)
 
