@@ -46,7 +46,7 @@ After completing the character and armor, I added:
 
 ## Demos
 
-**3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab]([SKETCHFAB_LINK](https://sketchfab.com/3d-models/agemenmnon-armor-3d-modle-ddb5b8fa0023412498e85a3ae109d622)
+**3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/agemenmnon-armor-3d-modle-ddb5b8fa0023412498e85a3ae109d622)
 
 ## Project Info
 
