@@ -44,9 +44,9 @@ After completing the character and armor, I added:
 
 ![2](002.png) ![3](003.png)
 
-**Full Project:** [Google Drive]((https://drive.google.com/drive/folders/1B0NZ3rep0tScR_gyqwg5t1sB4Kx3CJyA?usp=sharing))
+## Demos
 
-*Contains the `.blend` file, screenshots, and project files.*
+**3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab]([SKETCHFAB_LINK](https://sketchfab.com/3d-models/agemenmnon-armor-3d-modle-ddb5b8fa0023412498e85a3ae109d622)
 
 ## Project Info
 
