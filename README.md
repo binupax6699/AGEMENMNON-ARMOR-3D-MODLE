@@ -42,7 +42,7 @@ After completing the character and armor, I added:
 
 <table>
   <tr>
-    <td><img src="001.png" width="450"></td>
+    <td><img src="001.PNG" width="450"></td>
     <td><img src="002.png" width="450"></td>
   </tr>
   <tr>
