@@ -40,9 +40,15 @@ After completing the character and armor, I added:
 
 ## Renders & Media
 
-![Final Render](001.PNG)
-
-![2](002.png) ![3](003.png)
+<table>
+  <tr>
+    <td><img src="001.png" width="450"></td>
+    <td><img src="002.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="003.png" width="450"></td>
+  </tr>
+</table>
 
 ## Demos
 
