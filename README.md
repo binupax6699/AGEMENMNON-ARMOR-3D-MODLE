@@ -1,5 +1,7 @@
 # AGAMEMNON — ARMOR 3D MODEL
 
+<img src="001.PNG" width="700">
+
 ## Overview
 
 A full 3D recreation of Agamemnon's armor and character from *The Odyssey*, created in Blender for Hack Club Stardance.
@@ -42,10 +44,7 @@ After completing the character and armor, I added:
 
 <table>
   <tr>
-    <td><img src="001.PNG" width="450"></td>
     <td><img src="002.png" width="450"></td>
-  </tr>
-  <tr>
     <td><img src="003.png" width="450"></td>
   </tr>
 </table>
