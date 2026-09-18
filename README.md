@@ -40,8 +40,6 @@ After completing the character and armor, I added:
 * Final material setup
 * Baked textures
 
-## Renders & Media
-
 <table>
   <tr>
     <td><img src="002.png" width="450"></td>
