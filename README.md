@@ -65,14 +65,6 @@ After completing the character and armor, I added:
 
 **3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/agemenmnon-armor-3d-modle-ddb5b8fa0023412498e85a3ae109d622)
 
-## Project Info
-
-* **Software:** Blender
-* **Type:** 3D Character / Armor
-* **Focus:** Modeling, Sculpting, Texturing & Rigging
-* **Time Spent:** 45+ hours
-* **Status:** Completed
-
 ## License
 
 Licensed under **CC BY-NC 4.0**.
@@ -81,3 +73,12 @@ You may use, modify, and share this project for **non-commercial purposes**, wit
 **Commercial use or resale requires permission.**
 
 [View the full CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Project Info
+
+* **Software:** Blender
+* **Type:** 3D Character / Armor
+* **Focus:** Modeling, Sculpting, Texturing & Rigging
+* **Time Spent:** 45+ hours
+* **Status:** Completed
+
