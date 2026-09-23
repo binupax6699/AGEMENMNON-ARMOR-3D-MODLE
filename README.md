@@ -1,6 +1,12 @@
 # AGAMEMNON — ARMOR 3D MODEL
 
-<img src="001.PNG" width="700">
+<table>
+<tr>
+<td><img src="shots/001.png" width="450"></td>
+<td><img src="shots/004.png" width="450"></td>
+</tr>
+</table>
+
 
 ## Overview
 
@@ -13,6 +19,14 @@ The helmet was recreated closely from Christopher Nolan's film, while the body a
 I was inspired by Christopher Nolan's *The Odyssey* and wanted to recreate Agamemnon's distinctive armor.
 
 The helmet was modeled to closely match the film design, including the distinctive rear spine-like structure and horsehair crest. The body armor was developed separately using available image references rather than an existing 3D model.
+
+<table>
+<tr>
+<td><img src="shots/002.png" width="450"></td>
+<td><img src="shots/003.png" width="450"></td>
+</tr>
+</table>
+
 
 ## Modeling & Sculpting
 
@@ -40,14 +54,14 @@ After completing the character and armor, I added:
 * Final material setup
 * Baked textures
 
+## Demos
+
 <table>
   <tr>
-    <td><img src="002.png" width="450"></td>
-    <td><img src="003.png" width="450"></td>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
   </tr>
 </table>
-
-## Demos
 
 **3D Model:** [View the  AGAMEMNON ARMOR 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/agemenmnon-armor-3d-modle-ddb5b8fa0023412498e85a3ae109d622)
 
